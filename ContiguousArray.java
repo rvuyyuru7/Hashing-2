@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/subarray-sum-equals-k
+// https://leetcode.com/problems/contiguous-array/
 // Time complexity: O(N)
 // Space complexity: O(N) for map
 
